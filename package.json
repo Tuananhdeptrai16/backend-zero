@@ -1,0 +1,27 @@
+{
+  "name": "hocbe",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tuananhdeptrai16/backend-zero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tuananhdeptrai16/backend-zero/issues"
+  },
+  "homepage": "https://github.com/Tuananhdeptrai16/backend-zero#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+  
+}
+
